@@ -1,0 +1,15 @@
+#!/bin/sh
+set -e
+
+     
+echo '#!/bin/bash
+
+/usr/share/pje-office/pjeOffice.sh /usr/share/pje-office/pjeOffice.jar' > /usr/bin/pjeOffice
+
+chmod +x /usr/bin/pjeOffice
+
+chmod +x /usr/share/applications/pje-office.desktop
+
+
+
+exit 0

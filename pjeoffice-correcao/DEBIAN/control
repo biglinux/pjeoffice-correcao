@@ -1,0 +1,10 @@
+Package: pjeoffice-correcao
+Version: 1.0.0-1big1
+Depends: pje-office
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:12
+Description: Este pacote corrige alguns erros do instalador do PjeOffice para Linux em formato deb, instale primeiro o pje-office para Debian do site http://www.pje.jus.br/wiki/index.php/PJeOffice e então instale este pacote, para mais informações podem ser encontradas nesse link: https://forum.biglinux.com.br/t/pje-office-no-linux/45
+
