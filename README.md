@@ -1,0 +1,1 @@
+Primeiro instale o Pje Office do site oficial e então instale o pacote desta página, o Pje irá funcionar, não precisa preocupar com nenhuma dependência ou com a versão do java, para mais informações utilize o nosso fórum: https://forum.biglinux.com.br/t/pje-office-no-linux/45
